@@ -32,13 +32,17 @@ Chrome extension designed to help vendors share their closet!
 3. go to chrome extensions, enable "developer mode"
 4. load unpacked extension
 5. find the extracted folder
+6. pin the 'tinybearsecret52' extension (Excuse the name 😓)
+7. log in & go to your closet on Poshmark (good idea to select "Available Items" under "availibility
+")
 
+currernt feature:
 -Asynchronous auto load feature that loads all items before sharing
 -Shares to followers!
 
 <br>
-If you liked my project, please leave a star!
+𝕀𝕗 𝕪𝕠𝕦 𝕝𝕚𝕜𝕖𝕕 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥, 𝕝𝕖𝕒𝕧𝕖 𝕒 𝕤𝕥𝕒𝕣!!(please :))
 
 Connect with me on Linkedin
-[Keon Kim](https://www.linkedin.com/feed/update/urn:li:activity:6759146947627548672/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A6758153205114306560%2C6759146866782322688))
+[Keon Kim](https://www.linkedin.com/posts/keon-w-kim_poshmark-chromeextensions-software-activity-6762149212835635200-YglJ)
 <br>
