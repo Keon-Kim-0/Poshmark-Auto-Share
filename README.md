@@ -45,6 +45,6 @@ currernt feature:
 <br>
 𝕀𝕗 𝕪𝕠𝕦 𝕝𝕚𝕜𝕖𝕕 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥, 𝕝𝕖𝕒𝕧𝕖 𝕒 𝕤𝕥𝕒𝕣!!(please :))
 
-Connect with me on Linkedin
+Connect with me on Linkedin:
 [Keon Kim](https://www.linkedin.com/posts/keon-w-kim_poshmark-chromeextensions-software-activity-6762149212835635200-YglJ)
 <br>
