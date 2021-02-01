@@ -35,6 +35,8 @@ Chrome extension designed to help vendors share their closet!
 6. pin the 'tinybearsecret52' extension (Excuse the name 😓)
 7. log in & go to your closet on Poshmark (good idea to select "Available Items" under "availibility
 ")
+8. click the pinned extension
+9. enjoy!
 
 currernt feature:
 
