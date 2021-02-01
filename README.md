@@ -38,6 +38,7 @@ Chrome extension designed to help vendors share their closet!
 
 currernt feature:
 -Asynchronous auto load feature that loads all items before sharing
+
 -Shares to followers!
 
 <br>
