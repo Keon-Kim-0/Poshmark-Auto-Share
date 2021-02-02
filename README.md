@@ -1,6 +1,7 @@
 # Poshmark-Auto-Share
 
-Got frustrated that all extensions charge up to hundreds of dollarrs a month for such a simple feature. So I learned how to make a chrome extension and maade this within a few hourrs. This type of product is very insignificant in terms of software engineering and should not be gate-kept with premium payments. Please leave a star if you're happy you found a free auto share!/Connect with me on linkedin :)
+Got frustrated that all extensions charge up to hundreds of dollarrs a month for such a simple feature. So I've made my own!
+This type of software is very simple and should not be gate-kept with premium payments.
 
 p.s) Please dont mind the name, it was originally made for my significant other.
 
