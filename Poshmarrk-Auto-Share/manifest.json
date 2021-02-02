@@ -1,5 +1,5 @@
 {
-  "name": "TinyBearSecret",
+  "name": "Poshmark Closet Assistant",
   "description": "Print inside console when clicked",
   "version": "2.0",
   "permissions": ["contextMenus", "storage", "activeTab", "tabs"],
