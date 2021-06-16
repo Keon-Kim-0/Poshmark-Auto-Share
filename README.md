@@ -33,7 +33,7 @@ Chrome extension designed to help vendors share their closet!
 3. go to chrome extensions, enable "developer mode"
 4. load unpacked extension
 5. find the extracted folder
-6. pin the 'Poshmark Closet Assistant' extension
+6. pin the extension
 7. log in & go to your closet on Poshmark (good idea to select "Available Items" under "availibility
 ")
 8. click the pinned extension
