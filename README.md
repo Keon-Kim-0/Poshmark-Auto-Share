@@ -1,6 +1,6 @@
 # Poshmark-Auto-Share
 
-Frustrated that all extensions charge up to hundreds of dollarrs a month for such a simple feature?
+Frustrated that all extensions charge up to hundreds of dollars a month for such a simple feature.
 This type of software is very simple and should not be gate-kept with premium payments.
 
 p.s) Please dont mind the name, it was originally made for my significant other.
